@@ -1,2 +1,5 @@
-# presonal-assistant
-Study project for Spring Boot
+# Pesonal Assistant
+
+Это обучающий проект для SpringBoot с примерами использования различных модулей. Документация с уроками лежит - [тут](doc/README.md)
+
+
